@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/benyoo5222/web-serverpractice/issues"
   },
-  "homepage": "https://github.com/benyoo5222/web-serverpractice#readme"
+  "homepage": "https://github.com/benyoo5222/web-serverpractice#readme",
+  "dependencies": {
+    "ejs": "^2.5.8",
+    "express": "^4.16.3"
+  }
 }
