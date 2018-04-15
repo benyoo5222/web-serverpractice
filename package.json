@@ -1,0 +1,20 @@
+{
+  "name": "node-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benyoo5222/web-serverpractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benyoo5222/web-serverpractice/issues"
+  },
+  "homepage": "https://github.com/benyoo5222/web-serverpractice#readme"
+}
